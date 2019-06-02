@@ -1,0 +1,16 @@
+{
+    "name": "hotels",
+    "version": "0.0.0",
+    "scripts": {
+        "polymer": "polymer",
+        "sync": "browser-sync --proxy=localhost:8081 --watch --files=./**/*.* --ignore=node_modules --logLevel=debug"
+    },
+    "dependencies": {
+        "fuse.js": "^3.4.5",
+        "lit-element": "^2.1.0"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.26.3",
+        "polymer-cli": "^1.9.5"
+    }
+}
