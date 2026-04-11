@@ -10,7 +10,7 @@
         "lit-element": "^2.1.0"
     },
     "devDependencies": {
-        "browser-sync": "^2.26.3",
+        "browser-sync": "^3.0.4",
         "polymer-cli": "^1.9.5"
     }
 }
